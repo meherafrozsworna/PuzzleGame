@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1495644307 source:d:\rough\aqw\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793651 d:\rough\aqw\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1495865247 source:c:\users\user\downloads\aqw(1)\aqw\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793651 c:\users\user\downloads\aqw(1)\aqw\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1496543369 source:c:\users\user\desktop\puzzle\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793651 c:\users\user\desktop\puzzle\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1495873942 source:c:\users\user\desktop\puzzle\untitled1.c
+	<stdio.h>
+	<string.h>
+
+1497261235 source:d:\puzzle\puzzle\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793652 d:\puzzle\puzzle\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1498837656 source:e:\puzzle\puzzle\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793652 e:\puzzle\puzzle\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1499582042 source:c:\puzzle\puzzle\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793652 c:\puzzle\puzzle\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1499582042 source:d:\l-1  t-1\puzzle\puzzle\balldemo.cpp
+	"iGraphics.h"
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494793652 d:\l-1  t-1\puzzle\puzzle\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
